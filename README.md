@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Danil Dolin, I'm studying Ruby on Rails framework 👨‍💻, and trying develop awesome projects, I became unemployed after COVID 19 pandemy, so I decided to
+choose a new path as a full stack web developer.
 <!--
 **onlyArsh/onlyArsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -17,18 +19,16 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing all necessary skills to create more sophisticated projects.
-- 🎓 &nbsp; I finished "The complete Rube on Rails tutorials" that covers several projects, also completed all tutorials from [Michael Hartl](https://www.learnenough.com/).
-- 🌱 &nbsp; Currently keep styding Ruby on Rails framework and JavaScript, need to work on Rspec TDD soon will start to learn react or vue framework.
+- 🎓 &nbsp; I finished "The Complete Rube on Rails tutorial" on Udemy that covers several projects, also completed all tutorials from [Michael Hartl](https://www.learnenough.com/) and more.
+- 🌱 &nbsp; Currently keep styding Ruby on Rails framework and JavaScript, need to familiarize with Rspec TDD, soon will start to learn react or vue framework.
 - Open for project collaboration and internship opportunities. 
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Ruby | Ruby on Rails
 - 🌐 &nbsp; HTML | CSS | Bootstrap | JavaScript
-- 🔧 &nbsp; Git | Docker | Linux | WSL2 
+- 🔧 &nbsp; Git | Docker | Linux | WSL2 | ZSH
 - 🛢 &nbsp; PostgreSQL
-
-![github stats](https://github-readme-stats.vercel.app/api?username=onlyArsh&show_icons=true)
 
 ### 📫🤝🏻 Connect with Me
 
