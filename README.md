@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing all necessary skills to create more sophisticated projects.
-- 🎓 &nbsp; I finished "The Complete Rube on Rails tutorial" on Udemy that covers several projects, also completed all tutorials from [Michael Hartl](https://www.learnenough.com/) and more.
+- 🎓 &nbsp; I finished ["The Complete Ruby on Rails tutorial"](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/) on Udemy that covers several projects, also completed all tutorials from [Michael Hartl](https://www.learnenough.com/) and more.
 - 🌱 &nbsp; Currently keep styding Ruby on Rails framework and JavaScript, need to familiarize with Rspec TDD, soon will start to learn react or vue framework.
 - Open for project collaboration and internship opportunities. 
 
