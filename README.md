@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Danil Dolin, I'm studying Ruby on Rails framework 👨‍💻, and trying develop awesome projects, I became unemployed after COVID 19 pandemy, so I decided to
+I'm Danil Dolin, I'm studying Ruby on Rails framework 👨‍💻, and trying develop awesome projects, I became unemployed after COVID 19 pandemic, so I decided to
 choose a new path as a full stack web developer.
 <!--
 **onlyArsh/onlyArsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
