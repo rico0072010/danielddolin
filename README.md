@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🤔 &nbsp; Exploring new technologies and developing all necessary skills to create more sophisticated projects.
 - 🎓 &nbsp; I finished ["The Complete Ruby on Rails tutorial"](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/) on Udemy that covers several projects, also completed all tutorials from [Michael Hartl](https://www.learnenough.com/) and more.
-- 🌱 &nbsp; Currently keep styding Ruby on Rails framework and JavaScript, need to familiarize with Rspec TDD, soon will start to learn react or vue framework.
+- 🌱 &nbsp; Currently keep studying Ruby on Rails framework and JavaScript, need to familiarize with Rspec TDD, soon will start to learn react or vue framework.
 - Open for project collaboration and internship opportunities. 
 
 <h3>🛠 Tech Stack</h3>
