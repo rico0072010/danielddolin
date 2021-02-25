@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3> 👨🏻‍💻 About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies and developing all necessary skills to create more sophisticated projects.
-
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Ruby | Ruby on Rails
